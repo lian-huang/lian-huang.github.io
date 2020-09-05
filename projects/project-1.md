@@ -1,12 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Rivalogo.com
 title: Growth Intern at Riva
-permalink: projects/micromouse
+permalink: projects/Growth Intern at Riva
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
+summary: My time as a growth intern at Riva.
 ---
 
 <div class="ui small rounded images">
