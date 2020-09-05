@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/yellow_submarine.png
+title: Yellow Submarine Game
+permalink: projects/Yellow Submarine Game
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-09-04
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A fun game I made for ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/yellow_submarine.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+As a student in one of my first programming classes, the students were tasked with combining all the skills they had learned thus far and showcasing it in a game. In the class, we learned about variables, if statements, for loops, while loops, arrays, and objects. The language we used was Java. Creating a game using java was one of the most fun projects I’ve done so far. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+As the project head, I had to work with my partner to decide on what genre of game we wanted to create. It had to be both simple enough that we could program it with our skills, but also contain a wow factor. We determined the project would be based off of my partner’s favorite childhood song and movie, the Yellow Submarine. The Yellow Submarine had to evade obstacles such as moving bubbles, and collect all of the Beatles band members before time ran down. 
 
-<hr>
+While we had several weeks to do this, it required constant communication between us and the professor to figure out how exactly to implement this program. At the end of the day, I had to make the final decision and coordinate with my team to make sure the program would work. Work needed to be delegated and expectations had to be communicated clearly to reduce potential headaches. I really learned how to be both an effective team member and a leader.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
