@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Lucy'sLabLogo.png
 title: CFO at Lucy's Lab Creamery
-permalink: projects/vacay
+permalink: projects/CFO at Lucy's Lab Creamery
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
