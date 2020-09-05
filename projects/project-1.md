@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Rivalogo.com
+image: images/riva.jfif
 title: Growth Intern at Riva
 permalink: projects/Growth Intern at Riva
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ summary: My time as a growth intern at Riva.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Rivalogo.com">
+  <img class="ui image" src="../images/riva.jfif">
 
 </div>
 
