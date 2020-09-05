@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Lucy'sLabLogo.png
-title: Vacay
+title: CFO at Lucy's Lab Creamery
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
@@ -18,4 +18,4 @@ Running a small business takes a lot of effort. Similar to a larger corporation,
 
 While this job does a business background, I was also able to use the knowledge I had gained from taking a machine learning class as well as a data mining and visualization class to create my models. In academia, without harsh deadlines, one can take as long of a time as they need to gather information and create their models using the most fanciest of techniques, but in a rapidly changing environment where decisions need to be made as soon as possible, it is more commonplace to see one finding shortcuts and tricks find information as efficient as possible. The phrase “Perfect is great, but done is better” has never rang more true.
 
-Source: <a href="https://www.khon2.com/living-808/food-living-808/lucys-lab-creamery/">
+Take a look: ("https://www.khon2.com/living-808/food-living-808/lucys-lab-creamery/")
