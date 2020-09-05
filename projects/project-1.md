@@ -11,7 +11,7 @@ summary: My time as a growth intern at Riva.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/Rivalogo.com">
 
 </div>
 
