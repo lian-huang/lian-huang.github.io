@@ -16,5 +16,5 @@ A good question will look like “JavaFX problem with zooming into the 3DShape j
 
 A bad question could look like this “A simple java program”. The title doesn’t provide much help or insight at all to what the issue is or what they would need help with. These questions would most likely immediately get discarded. 
 
-The link to the good question is [“https://stackoverflow.com/questions/63843997/javafx-problem-with-zooming-into-the-3dshape-java-lang-nullpointerexception-at-c”]
-The link to the bad question is [“https://stackoverflow.com/questions/18170990/a-simple-java-program”]
+[Good question] [(https://stackoverflow.com/questions/63843997/javafx-problem-with-zooming-into-the-3dshape-java-lang-nullpointerexception-at-c)
+[Bad question] https://stackoverflow.com/questions/18170990/a-simple-java-program)
