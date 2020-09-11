@@ -10,7 +10,7 @@ labels:
 summary: A fun game I made for ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/yellow__submarine.jpg">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/yellow__submarine.jpg">
 
 As a student in one of my first programming classes, the students were tasked with combining all the skills they had learned thus far and showcasing it in a game. In the class, we learned about variables, if statements, for loops, while loops, arrays, and objects. The language we used was Java. Creating a game using java was one of the most fun projects I’ve done so far. 
 
