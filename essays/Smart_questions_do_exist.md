@@ -16,5 +16,5 @@ A bad question could look like this “A simple java program”. The title doesn
 
 Looking over good questions and bad questions can definitely help one distinguish between the two. In general, one should carefully choose the forum to ask questions and then use meaningful and specific subject headers to increase one’s odds of having their questions answered. Make sure to use clear, grammatical, and correctly-spelled language, be precise about the problem and goal, and describe the problem’s symptoms in chronological order. This should be followed with a clear call to action and closed with a courteous thank you for their time to be a good member of the community.
 
-[Good question] (https://stackoverflow.com/questions/63843997/javafx-problem-with-zooming-into-the-3dshape-java-lang-nullpointerexception-at-c)
-[Bad question] (https://stackoverflow.com/questions/18170990/a-simple-java-program)
+[Good question](https://stackoverflow.com/questions/63843997/javafx-problem-with-zooming-into-the-3dshape-java-lang-nullpointerexception-at-c).
+[Bad question](https://stackoverflow.com/questions/18170990/a-simple-java-program).
