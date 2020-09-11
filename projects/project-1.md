@@ -11,7 +11,7 @@ summary: My time as a growth intern at Riva.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/riva.jfif">
+  <img class="ui medium right floated rounded image" src="../images/riva.jfif">
 
 </div>
 
