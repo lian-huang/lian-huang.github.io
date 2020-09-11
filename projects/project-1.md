@@ -22,7 +22,7 @@ As the organization was focused on helping women and minorities, they needed som
 While these tasks did not require a highly skilled person to execute them, I picked up a lot by physically being in the workspace and experiencing the culture. Working on the mainland, and particularly in San Francisco, is very different from the slow-pace and laid back atmosphere here in Hawaii. However, I was able to talk to my co-workers, who were mainly software engineers, and network with other professionals working in the tech industry. I gained insight on the life of a data scientist working at Uber and an analyst working at Google and got to meet great friends from another part of the world. 
 
 
-You can learn more at: (https://www.rivanegotiations.com/).
+You can learn about the company [here](https://www.rivanegotiations.com/).
 
 
 
