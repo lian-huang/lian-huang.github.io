@@ -18,4 +18,4 @@ Running a small business takes a lot of time and effort. Similar to a larger cor
 
 While this job does require business background, I was also able to use the knowledge I had gained from taking a machine learning class as well as a data mining and visualization class to create my models to forecast demand and pinpoint inefficiencies. In academia, without harsh deadlines, one can take as long of a time as they need to gather information and create their models using the most fanciest of techniques, but in a rapidly changing environment where decisions need to be made as soon as possible, it is more commonplace to see one using shortcuts and tricks to find information as efficiently as possible. The phrase “Perfect is great, but done is better” doesn't come more true in this scenario.
 
-Take a [look](https://www.khon2.com/living-808/food-living-808/lucys-lab-creamery/") at our team so far in the news!
+Take a look at our team so far in the [news](https://www.khon2.com/living-808/food-living-808/lucys-lab-creamery/")!
