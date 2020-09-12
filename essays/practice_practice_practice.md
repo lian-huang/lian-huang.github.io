@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Practice, Practice, Practice
+title: Practice Practice *Practice*
 date: 2020-09-03
 labels:
 
