@@ -6,7 +6,7 @@
     "email": "lian7@hawaii.edu",
     "phone": "808-728-6106",
     "website": "https://lian-huang.github.io",
-    "summary": "I am student double majoring in Computer Science with a focus in Data Science and Finance at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
+    "summary": "I am student double majoring in Computer Science with a focus in Data Science and Finance at the University of Hawaii at Manoa. I expect to graduate in Spring 2022.",
     "location": {
       "address": "1315 Kalakaua Ave. #2303",
       "postalCode": "96826",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "quantitative finance",
+      "name": "Quantitative Finance",
       "keywords": [
       ]
     },
     {
-      "name": "data analytics",
+      "name": "Data Analytics",
       "keywords": [
       ]
     }
@@ -59,7 +59,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science and Finance (expected Spring, 2022)",
+      "area": "Computer Science and Finance (expected graduation Spring, 2022)",
       "studyType": "B.S. & B.B.A",
       "startDate": "2017-09-01",
       "endDate": "Present",
