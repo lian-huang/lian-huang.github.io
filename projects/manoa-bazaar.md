@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Landing(3).JPG
+image: images/sqlanding.JPG
 title: Manoa Bazaar
 permalink: projects/Manoa Bazaar
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ summary: My latest creation...
 ---
 
 <div class="ui small rounded images">
-  <img class="ui medium right floated rounded image" src="../images/Landing(3).JPG">
+  <img class="ui medium right floated rounded image" src="../images/sqlanding.JPG">
 
 </div>
 
