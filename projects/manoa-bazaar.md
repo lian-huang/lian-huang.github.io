@@ -1,4 +1,19 @@
+---
+layout: project
+type: project
+image: images/Landing(3).JPG
+title: Manoa Bazaar
+permalink: projects/Manoa Bazaar
+# All dates must be YYYY-MM-DD format!
+date: 2020-12-18
+labels:
+summary: My latest creation...
+---
 
+<div class="ui small rounded images">
+  <img class="ui medium right floated rounded image" src="../images/Landing(3).JPG">
+
+</div>
 
 ##My Latest Project
 In my latest evolutionary stage as a Computer Science student, a group of us were tasked with throwing together what we’ve learned thus far in Software Engineering to create usable end products. In our case, it was a fully functional website that helps UH Manoa students buy and sell goods to each other. As a student who has lived on campus, I frequently see piles of perfectly good items sitting at the dumpster at the end of the semester. Things such as TV’s, fridges, school supplies, and the like tossed haphazardly as students don’t have the time or have made proper arrangements to sell off all of their belongings before they have to leave. With a dedicated website, students can easily make an account, sign in, and list their items. Not only can a student list their items, he or she can come back and edit the listing if he or she wants to sell his or her items faster.  
